@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://jazzy-fox-74bfb6.netlify.app/"
 languageCode: en-us
 title: Demo for Hugo
 theme: PaperMod
