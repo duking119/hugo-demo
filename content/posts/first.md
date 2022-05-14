@@ -16,3 +16,5 @@ categories: ["tech"]
 
 - this is paragraph
     - this is paragraph
+[myblog](https://jazzy-fox-74bfb6.netlify.app/)
+
