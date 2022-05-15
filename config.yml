@@ -3,6 +3,26 @@ languageCode: en-us
 title: Huoyanf's BLOG
 theme: PaperMod
 
+params:
+  homeInfoParams:
+    Title: 'Welcome Stranger'
+    Content: 'Welcome to my blog. I am an architecture and self-taught programmer.'
+
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/@hyfthe1"
+    - name: github
+      url: "https://github.com/duking119"
+  cover:
+    linkFullImages: true
+
+  ShowBreadCrumbs: true
+
+  ShowReadingTime: true
+
+  ShowShareButtons: true
+
+  ShowPostNavlinks: true
 menu:
   main:
     - identifier: categories
