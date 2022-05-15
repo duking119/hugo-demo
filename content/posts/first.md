@@ -38,7 +38,7 @@ categories: ["tech"]
                 > code .
                 # 编辑项目目录中的config.yml 文件
                     baseURL: "部署在netlify上个人网页的地址,开始时设为空"
-                    langugeCode: en-us
+                    languageCode: en-us
                     title: My new Hugo Site
                     theme: PaperMod
                     
@@ -60,7 +60,7 @@ categories: ["tech"]
                 # 使用Hugo内置的网页预览, 预览地址默认为 //localhost:1313/
                 > hugo server
                 # 添加网页内容
-                    # creat new post artical
+                    # create new post artical
                 > hugo new posts/postname.md
 		  		  
 		  ```
