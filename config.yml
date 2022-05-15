@@ -13,6 +13,8 @@ params:
       url: "https://twitter.com/@hyfthe1"
     - name: github
       url: "https://github.com/duking119"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/%E5%B2%A9%E9%94%8B-%E9%9C%8D-a70b25b5/"
   cover:
     linkFullImages: true
 
