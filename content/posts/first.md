@@ -105,7 +105,11 @@ categories: ["tech"]
     
     ```
 
-  - 上传到GitHub个人库中  #issue i can't display the image on webserver.
-    ![alt text](/static/img/gitpush.jpg)
+  - 上传到GitHub个人库中  #**issue** i can't display local image on webserver, and I change its URL from Github.
+    ![alt text](https://raw.githubusercontent.com/duking119/hugo-demo/master/static/img/gitpush.jpg)
 
 - 步骤三： 将netlify 与GitHub同步，部署个人网页
+  - 注册一个Netlify账号
+  - 选择Add new site
+  - 链接GitHub账号，选择要共享的存储夹
+  - 发布后复制个人网页地址，添入config.yml中的baseURL中
