@@ -106,10 +106,13 @@ categories: ["tech"]
     ```
 
   - 上传到GitHub个人库中  #**issue** i can't display local image on webserver, and I change its URL from Github.
-    ![alt text](https://raw.githubusercontent.com/duking119/hugo-demo/master/static/img/gitpush.jpg)
+    ![gitpush img](https://raw.githubusercontent.com/duking119/hugo-demo/master/static/img/gitpush.jpg "使用vscode 自带的同步工具")
 
 - 步骤三： 将netlify 与GitHub同步，部署个人网页
   - 注册一个Netlify账号
   - 选择Add new site
   - 链接GitHub账号，选择要共享的存储夹
   - 发布后复制个人网页地址，添入config.yml中的baseURL中
+    ![netlify url](https://raw.githubusercontent.com/duking119/hugo-demo/master/static/img/address2.jpg "复制netlify网页的地址")
+    ![base url](https://raw.githubusercontent.com/duking119/hugo-demo/master/static/img/address.jpg "补充到config.YML文件中")
+  - 个人免费网页的初始部署已经基本完成了，后续可以修改网页的样式以及发布新的个人文章。
